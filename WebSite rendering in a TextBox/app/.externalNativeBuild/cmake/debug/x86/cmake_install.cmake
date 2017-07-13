@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Wassabi.vl/Documents/GitHub/mis-2017-exercise-1-helloandroid/app
+# Install script for directory: C:/Users/Wassabi.vl/Documents/GitHub/Android Apps/WebSite rendering in a TextBox/app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Wassabi.vl/Documents/GitHub/mis-2017-exercise-1-helloandroid/app/.externalNativeBuild/cmake/debug/x86/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/Wassabi.vl/Documents/GitHub/Android Apps/WebSite rendering in a TextBox/app/.externalNativeBuild/cmake/debug/x86/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

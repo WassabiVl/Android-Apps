@@ -1,3 +1,3 @@
-C:/Users/Wassabi.vl/Documents/GitHub/mis-2017-exercise-1-helloandroid/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/native-lib.dir
-C:/Users/Wassabi.vl/Documents/GitHub/mis-2017-exercise-1-helloandroid/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
-C:/Users/Wassabi.vl/Documents/GitHub/mis-2017-exercise-1-helloandroid/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+C:/Users/Wassabi.vl/Documents/GitHub/Android Apps/WebSite rendering in a TextBox/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/native-lib.dir
+C:/Users/Wassabi.vl/Documents/GitHub/Android Apps/WebSite rendering in a TextBox/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Wassabi.vl/Documents/GitHub/Android Apps/WebSite rendering in a TextBox/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir

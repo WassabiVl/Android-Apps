@@ -2,11 +2,11 @@
 {
 	"buildFiles" : 
 	[
-		"C:/Users/Wassabi.vl/Documents/GitHub/mis-2017-exercise-1-helloandroid/app/CMakeLists.txt"
+		"C:/Users/Wassabi.vl/Documents/GitHub/Android Apps/WebSite rendering in a TextBox/app/CMakeLists.txt"
 	],
 	"cleanCommands" : 
 	[
-		"C:\\Users\\Wassabi.vl\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Wassabi.vl\\Documents\\GitHub\\mis-2017-exercise-1-helloandroid\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+		"C:\\Users\\Wassabi.vl\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\Wassabi.vl\\Documents\\GitHub\\Android Apps\\WebSite rendering in a TextBox\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target clean"
 	],
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
@@ -15,18 +15,18 @@
 		{
 			"abi" : "x86",
 			"artifactName" : "native-lib",
-			"buildCommand" : "C:\\Users\\Wassabi.vl\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Wassabi.vl\\Documents\\GitHub\\mis-2017-exercise-1-helloandroid\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target native-lib",
+			"buildCommand" : "C:\\Users\\Wassabi.vl\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"C:\\Users\\Wassabi.vl\\Documents\\GitHub\\Android Apps\\WebSite rendering in a TextBox\\app\\.externalNativeBuild\\cmake\\debug\\x86\" --target native-lib",
 			"buildType" : "debug",
 			"files" : 
 			[
 				
 				{
 					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=C:/Users/Wassabi.vl/AppData/Local/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/Wassabi.vl/AppData/Local/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem C:\\Users\\Wassabi.vl\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\Users\\Wassabi.vl\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86\\include -isystem C:\\Users\\Wassabi.vl\\AppData\\Local\\Android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem C:/Users/Wassabi.vl/AppData/Local/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=18 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/Wassabi.vl/Documents/GitHub/mis-2017-exercise-1-helloandroid/app/src/main/cpp/native-lib.cpp",
-					"workingDirectory" : "C:/Users/Wassabi.vl/Documents/GitHub/mis-2017-exercise-1-helloandroid/app/.externalNativeBuild/cmake/debug/x86"
+					"src" : "C:/Users/Wassabi.vl/Documents/GitHub/Android Apps/WebSite rendering in a TextBox/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/Users/Wassabi.vl/Documents/GitHub/Android Apps/WebSite rendering in a TextBox/app/.externalNativeBuild/cmake/debug/x86"
 				}
 			],
-			"output" : "C:/Users/Wassabi.vl/Documents/GitHub/mis-2017-exercise-1-helloandroid/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so",
+			"output" : "C:/Users/Wassabi.vl/Documents/GitHub/Android Apps/WebSite rendering in a TextBox/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so",
 			"toolchain" : "4143827309"
 		}
 	},

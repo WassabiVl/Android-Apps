@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebSite rendering in a TextBox.iml" filepath="$PROJECT_DIR$/WebSite rendering in a TextBox.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mis-2017-exercise-1-helloandroid.iml" filepath="$PROJECT_DIR$/mis-2017-exercise-1-helloandroid.iml" />
     </modules>
   </component>
 </project>

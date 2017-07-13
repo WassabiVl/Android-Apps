@@ -26,7 +26,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".LiveView"></activity>
+        <activity
+            android:name=".LiveView"
+            android:label="LiveView">
+            <intent-filter>
+                <action android:name="android.intent.action.LiveView" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
