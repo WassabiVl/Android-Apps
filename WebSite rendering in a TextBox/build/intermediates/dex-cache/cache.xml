@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\37b212324d03dfcd5290360edff1c18427a56984\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_359015edf89158cb35505ea4a20c71e158d793fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\7af01bcdad2b6da62a88ff39e4b0132c5d85e83d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e04272e81fc731e410d689f5793d662f0a1a701\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\hamcrest-core-1.3_2f3b4561d14161a38c93dcf960727cdfcd623d2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\c991e9728bb63327eac03316466cc7439de57047\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02bea989bd07ab3f812899aa62af5f1ea27de384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\ad2b30eb1f488955658da45a9c91b32efbbb1a33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fad63a36a973932016d2fa50e02bce6b70fea6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\3e82bbce72671634817303b7c13ecaf2d7bb4389\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b3d28ad5716befb120aef30e0715049b1c82dd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\81c901d027a609eeaec1e018d6230c2ade8d4a31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9bc43666730ac2852234ec6305bf5194df528129\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02ffdb8e9ad69ff3ca3f0a349b144bfb742fd883">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d4cec61ea2ff874ef3382e17941da481126cea89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\junit-4.12_137792df056ad8673b80ddbf0498056187c82253\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\ae85e1f53359d19ecaadb19e6a4ff565a7b077f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d63a80cbfa6ec56d62868c48acf850646eac0e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\957a1570ca08ffed671013f2db3c96adb9a5c253\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df0c6d19120cca525b6624e2ece2eabddf357ea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\1b408df2949f8eacdf2e563add9c3bd10dc5b473\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c60510b14e542690bd28465065c0fb4fa98d6cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.gradle\caches\modules-2\files-2.1\eu.the4thfloor.volley\com.android.volley\2015.05.28\b0b08cc0ac897e596abe6b263a9507cba875b705\com.android.volley-2015.05.28.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b0b08cc0ac897e596abe6b263a9507cba875b705">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-2015.05.28_342347fbbe856a94f6ee3a467b57624d9ba1d3d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_888e677b6ed76b60ef920ab019f0b00c15c31472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_ebe366d0307d413d7b03db9de3a76655d35b274e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.android\build-cache\bab6e468a3b5f8e1db28874638aef796df936ae1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_180a61c00ffbe0c0348e8aaeb04e02cb7d312eb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_729823ffe95d7f4fbb71692b979a5645e98b3495\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Wassabi.vl\Documents\GitHub\mis-2017-exercise-1-helloandroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_99967c3953c04ab8997a0bab75987772537424b7\classes.dex" />
+    </item>
+
+</items>

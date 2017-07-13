@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="LiveData">Live Data</string>
+    <string name="jog">Play Jog</string>
+    <string name="bike">Play Bike</string>
+    <string name="album_art">Album Art</string>
+    <item name="btnBike" type="id">Bike</item>
+    <item name="btnJog" type="id">Jog</item>
+</resources>

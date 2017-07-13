@@ -1,0 +1,5 @@
+Wael Atrash 118011
+Rosemary Adejoh 118018
+
+Problems
+FFT renders very slowly.

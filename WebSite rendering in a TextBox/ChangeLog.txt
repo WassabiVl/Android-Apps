@@ -1,0 +1,4 @@
+Version 1 - Exercise 1
+
+known problems
+1) not all images rendered into text views
