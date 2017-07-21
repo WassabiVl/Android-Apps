@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Wassabi.vl\\Documents\\GitHub\\Android Apps\\Active Media Player\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Wassabi.vl\\.android\\build-cache\\7f777888d68e23af45f02bd34120bac9fc71de1b\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

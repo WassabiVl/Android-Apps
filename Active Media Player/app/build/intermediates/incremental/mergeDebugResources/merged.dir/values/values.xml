@@ -649,6 +649,10 @@
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="LiveData">Live Data</string>
+    <string name="PC">Pause Crazy</string>
+    <string name="PT">Pause Think</string>
+    <string name="PlC">Play Crazy</string>
+    <string name="Plt">Play Think</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>

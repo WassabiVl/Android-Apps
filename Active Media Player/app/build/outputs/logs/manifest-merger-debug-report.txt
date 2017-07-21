@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+service#com.example.user.musicapp.MusicService
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:5:5-45
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:5:14-42
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:6:5-98
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:6:22-95
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:9:22-76
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:10:19-63
+application
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:12:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Wassabi.vl\.android\build-cache\243e46aa19b888aee94bb1321fadae1cedd14b5d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\c81d73fa82c1b7624f87934c52e6f292cd9f29f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\1b408df2949f8eacdf2e563add9c3bd10dc5b473\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\7af01bcdad2b6da62a88ff39e4b0132c5d85e83d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\3e82bbce72671634817303b7c13ecaf2d7bb4389\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\8e4c291954dbb82b4963b97d58678a367c3e42c1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\Wassabi.vl\.android\build-cache\e16f03d8388b96206deecb1c3c02ba3e9824573c\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\957a1570ca08ffed671013f2db3c96adb9a5c253\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\37b212324d03dfcd5290360edff1c18427a56984\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\81c901d027a609eeaec1e018d6230c2ade8d4a31\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\bab6e468a3b5f8e1db28874638aef796df936ae1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\ae85e1f53359d19ecaadb19e6a4ff565a7b077f0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\c991e9728bb63327eac03316466cc7439de57047\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:16:9-35
+	android:allowBackup
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:14:9-43
+	android:largeHeap
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:18:9-33
+	android:theme
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:17:9-40
+activity#com.example.user.musicapp.MainActivity
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:21:13-45
+	android:launchMode
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:22:13-44
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.example.user.musicapp.LiveView
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:30:13-37
+intent-filter#android.intent.action.LiveView+android.intent.category.LAUNCHER
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.LiveView
+ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:33:17-73
+	android:name
+		ADDED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml:33:25-70
+uses-sdk
+INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Wassabi.vl\.android\build-cache\243e46aa19b888aee94bb1321fadae1cedd14b5d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\c81d73fa82c1b7624f87934c52e6f292cd9f29f0\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\1b408df2949f8eacdf2e563add9c3bd10dc5b473\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\7af01bcdad2b6da62a88ff39e4b0132c5d85e83d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\3e82bbce72671634817303b7c13ecaf2d7bb4389\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\1cc939f030b185052d2a1be7632cd0ec08142569\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\8e4c291954dbb82b4963b97d58678a367c3e42c1\output\AndroidManifest.xml:20:5-44
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\Wassabi.vl\.android\build-cache\e16f03d8388b96206deecb1c3c02ba3e9824573c\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\957a1570ca08ffed671013f2db3c96adb9a5c253\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\37b212324d03dfcd5290360edff1c18427a56984\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\81c901d027a609eeaec1e018d6230c2ade8d4a31\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\bab6e468a3b5f8e1db28874638aef796df936ae1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\ae85e1f53359d19ecaadb19e6a4ff565a7b077f0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\c991e9728bb63327eac03316466cc7439de57047\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\c81d73fa82c1b7624f87934c52e6f292cd9f29f0\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Wassabi.vl\Documents\GitHub\Android Apps\Active Media Player\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\c81d73fa82c1b7624f87934c52e6f292cd9f29f0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\1b408df2949f8eacdf2e563add9c3bd10dc5b473\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\7af01bcdad2b6da62a88ff39e4b0132c5d85e83d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\3e82bbce72671634817303b7c13ecaf2d7bb4389\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\1cc939f030b185052d2a1be7632cd0ec08142569\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\8e4c291954dbb82b4963b97d58678a367c3e42c1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\957a1570ca08ffed671013f2db3c96adb9a5c253\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\37b212324d03dfcd5290360edff1c18427a56984\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\81c901d027a609eeaec1e018d6230c2ade8d4a31\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\bab6e468a3b5f8e1db28874638aef796df936ae1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\ae85e1f53359d19ecaadb19e6a4ff565a7b077f0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\c991e9728bb63327eac03316466cc7439de57047\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\c81d73fa82c1b7624f87934c52e6f292cd9f29f0\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Wassabi.vl\.android\build-cache\c81d73fa82c1b7624f87934c52e6f292cd9f29f0\output\AndroidManifest.xml:26:9-47

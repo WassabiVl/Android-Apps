@@ -4,6 +4,10 @@
     <string name="jog">Play Jog</string>
     <string name="bike">Play Bike</string>
     <string name="album_art">Album Art</string>
+    <string name="PC">Pause Crazy</string>
+    <string name="PT">Pause Think</string>
+    <string name="PlC">Play Crazy</string>
+    <string name="Plt">Play Think</string>
     <item name="btnBike" type="id">Bike</item>
     <item name="btnJog" type="id">Jog</item>
 </resources>

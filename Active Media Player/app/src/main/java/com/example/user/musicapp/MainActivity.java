@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                 }
                 SongBike.start();
                 playing = 1;
-                btnJog.setText("Pause Crazy");
+                btnJog.setText(R.string.PC);
             }
             else if (MovSpeed >5 && MovSpeed <15){ //jogging speed
                 if(SongBike.isPlaying()){
@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                 }
                 SongJog.start();
                 playing = 1;
-                btnBike.setText("Pause Think");
+                btnBike.setText(R.string.PT);
             }
             else{
 
@@ -138,12 +138,12 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                     }
                     SongJog.start();
                     playing = 1;
-                    btnJog.setText("Pause Crazy");
+                    btnJog.setText(R.string.PC);
                     break;
                 case 1:
                     SongJog.pause();
                     playing = 0;
-                    btnJog.setText("Play Crazy");
+                    btnJog.setText(R.string.PlC);
                     break;
 
             }
@@ -158,13 +158,13 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                     case 0:
                         SongBike.start();
                         playing = 1;
-                        btnBike.setText("Pause Think");
+                        btnBike.setText(R.string.PT);
                         break;
 
                     case 1:
                         SongBike.pause();
                         playing = 0;
-                        btnBike.setText("Play Think");
+                        btnBike.setText(R.string.Plt);
                         break;
                 }
 
