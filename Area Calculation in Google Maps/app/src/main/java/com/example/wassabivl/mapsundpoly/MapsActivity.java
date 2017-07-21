@@ -45,9 +45,10 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         final PolylineOptions polylineOptions = new PolylineOptions();
         //setting the colour
         polylineOptions.color(Color.RED);
-        // set the weight
+        // set the weight and visibility
         polylineOptions.width(2);
         polylineOptions.visible(true);
+        //call upon area calculations when the button is pressed
         final Button button = (Button) findViewById(R.id.button);
         final String currentText = button.getText().toString();
         button.setOnClickListener(new View.OnClickListener() {
@@ -141,7 +142,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         protected Wrapper doInBackground(Wrapper... params) {// http://googlemaps.github.io/android-maps-utils/
             // to calculate the area
             int z = pointers.size(); //so the loops knows when to stop.
-            Double area = SphericalUtil.computeArea(pointers);
+            Double area = SphericalUtil.computeArea(pointers); //google library to compute spherical landmass
             LatLngBounds.Builder builder = new LatLngBounds.Builder();
             for (int i = 0; i < z; i++) {
                 builder.include(pointers.get(i));
